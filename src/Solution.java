@@ -25,7 +25,7 @@ public class Solution {
                 return false;
             }
         }
-        return true;
+        return true;// Both strings are anagrams of each other.
 
     }
 }
